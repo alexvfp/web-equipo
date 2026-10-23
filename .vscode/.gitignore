@@ -1,0 +1,12 @@
+# Credenciales y configuración local
+*.env
+config/db.php
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias y logs
+node_modules/
+vendor/
+*.log
